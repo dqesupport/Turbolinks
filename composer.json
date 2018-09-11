@@ -1,5 +1,5 @@
 {
-    "name":        "helthe/turbolinks",
+    "name":        "dqe/turbolinks",
     "type":        "library",
     "description": "Helthe Turbolinks Component",
     "keywords":    ["turbolinks"],
@@ -27,7 +27,7 @@
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "1.4.x-dev"
+            "dev-master": "2.0.x-dev"
         }
     }
 }
