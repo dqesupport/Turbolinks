@@ -31,7 +31,7 @@ Add the following in your `composer.json`:
 {
     "require": {
         // ...
-        "dqe/turbolinks": "~2.0"
+        "dqe/turbolinks": "~3.0"
     }
 }
 ```
@@ -39,7 +39,7 @@ Add the following in your `composer.json`:
 #### Using the command line
 
 ```bash
-$ composer require 'dqe/turbolinks=~2.0'
+$ composer require 'dqe/turbolinks=~3.0'
 ```
 
 ## Usage
